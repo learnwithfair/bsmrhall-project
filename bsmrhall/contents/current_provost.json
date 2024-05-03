@@ -1,0 +1,21 @@
+[
+  
+    {
+        "name": "Tarun Debnath",
+        "img": "admin/assets/img/tarun debnath.jpg",
+        "status": "Assistant Provost",
+        "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100200"
+    },
+    {
+        "name": "Dr. Md. Azizur Rahman",
+        "img": "admin/assets/img/Aziz.jpg",
+        "status": "Assistant Provost",
+        "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100043"
+    },
+    {
+        "name": "S. M. Shahedul Alam",
+        "img": "admin/assets/img/Shahedul Alam.jpg",
+        "status": "Assistant Provost",
+        "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100182"
+    }
+]

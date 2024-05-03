@@ -1,0 +1,234 @@
+/* ==============================================================
+       # Notice css
+  =================================================================== */
+.notice_banner {
+  padding: 90px 50px 50px 0px;
+  margin-top: 122px;
+  filter: brightness(60%);
+}
+
+.notice_banner_msg {
+  filter: brightness(130%);
+}
+
+.notice_banner .notice_icon_text {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  z-index: 1;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: inherit;
+  padding-top: 14px;
+}
+
+.notice_banner h1 {
+  display: block;
+  font-weight: 600;
+  /*text-transform: uppercase;*/
+  font-size: 3rem;
+  margin-top: -10px;
+}
+
+.notice_banner .notice_icon_text li i {
+  margin-right: 5px;
+}
+
+.notice_banner .notice_icon_text li {
+  padding: 0 10px;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+}
+
+.notice_banner .notice_icon_text li:first-child {
+  padding-left: 0;
+}
+
+.notice_banner .notice_icon_text li:last-child {
+  padding-right: 0;
+}
+
+.notice_banner .notice_icon_text li::after {
+  background: #ffffff;
+  content: "";
+  height: 3px;
+  left: -5px;
+  margin-top: -1px;
+  position: absolute;
+  top: 50%;
+  width: 3px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.notice_banner .notice_icon_text li:first-child::after {
+  display: none;
+}
+
+.notice_banner .notice_icon_text a,
+.notice_banner .notice_icon_text li {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  /*text-transform: uppercase;*/
+  color: #fff;
+}
+
+.notice_banner .notice_icon_text li.active {
+  color: #e6ff01;
+}
+
+/* Top Author */
+.top-author h4 {
+  text-align: center;
+  background: #f1f1f1;
+  margin: 0;
+  padding: 15px;
+  border: 1px solid #e7e7e7;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.top-author h5 {
+  text-align: left;
+  font-weight: 600;
+}
+
+.top-author .author-items {
+  padding: 30px;
+  border: 1px solid #e7e7e7;
+  border-top: none;
+  overflow: hidden;
+}
+
+.top-author .author-items .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 14px;
+  padding-bottom: 0px;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.top-author .author-items .item:last-child {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.author-items > a {
+  display: inline-block;
+  padding: 8px 40px;
+  border: 2px solid #e7e7e7;
+  font-weight: 600;
+  float: right;
+  border-radius: 3px;
+}
+
+.author-items > a i {
+  font-size: 12px;
+  position: relative;
+  top: 0;
+  left: 3px;
+}
+
+.author-items > a:hover {
+  color: #fff;
+}
+
+.notice_borders a {
+  /* color: #000; */
+  color: #111;
+}
+
+.notice_borders {
+  color: #13294b;
+}
+
+.notice_btns {
+  margin-left: 5px;
+  font-weight: 700;
+  font-size: 15px;
+  color: #111;
+}
+
+.notice_date_text {
+  padding-left: 0px;
+}
+
+.notice_header a {
+  color: #111;
+  font-size: 17px;
+}
+
+.top-authors {
+  margin-top: -20px;
+}
+
+.btn-warnings {
+  background: #13294b;
+  color: #f1f1f1;
+}
+
+/* ==============================================================
+        # Provost message
+   =================================================================== */
+.provost_mssg {
+  float: left;
+}
+
+.provost_msg_1 {
+  margin: 20px 20px 20px 20px;
+  width: 38%;
+  text-align: center;
+}
+
+.provost_msg_2 {
+  justify-content: center;
+  padding: 10px 10px 10px 13px;
+  margin-top: 20px;
+  text-align: justify;
+  width: 54%;
+}
+
+.provost_msg_2 p,
+.provost_msg_1 {
+  color: #111;
+}
+
+.provost_msg_2 p:hover,
+.provost_msg_1:hover {
+  color: #111;
+}
+
+.provost_msg_2 p {
+  font-size: 15px;
+}
+
+/* ==============================================================
+        # Language club
+   =================================================================== */
+.language_author {
+  margin-top: 24px;
+}
+
+.language_author p {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* ==============================================================
+        # carouserl
+   =================================================================== */
+.single-testimonial h4 {
+  color: #ffffff;
+}
+
+/* ==============================================================
+        # active color
+   =================================================================== */
+
+.nav_link:is(:link, :active, :visited).active {
+  /* color: #FCAA75 !important; */
+  color: #ed6738 !important;
+}

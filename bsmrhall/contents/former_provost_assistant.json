@@ -1,0 +1,77 @@
+[
+    {
+        "img": "assets/img/faimg/monzurul.jpg",
+        "phone": "+8801719106342 (Personal)",
+        "email1": "hasnat@pust.ac.bd (Office)",
+        "email2": "monzurul21@gmail.com (Personal)",
+        "name": "A. H. M. Monzurul Mamun",
+        "status": "Assistant Provost",
+        "link": "https://www.pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100106"
+    },{
+        "img": "assets/img/faimg/sarwar.jpeg",
+        "phone": "+8801722047833 (Personal)",
+        "email1": "sarwar.ice@pust.ac.bd (Office)",
+        "email2": "sarwar.icepust@gmail.com (Personal)",
+        "name": "Md. Sarwar Hosain",
+        "status": "Assistant Provost",
+        "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100078"
+    },{
+        "img": "assets/img/faimg/liton.jpg",
+        "phone": "+8801737242554 (Personal)",
+        "email1": "litonpaulete@pust.ac.bd (Office)",
+        "email2": "litonpaulete@gmail.com (Personal)",
+        "name": "Liton Chandra Paul",
+        "status": "Assistant Provost",
+        "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100069"
+    },{
+        "img": "assets/img/faimg/avatar1.jpg",
+        "phone": "",
+        "email1": "",
+        "email2": "",
+        "name": "Md. Anwarul Haque",
+        "status": "Assistant Provost",
+        "link": "#"
+    },{
+        "img": "assets/img/faimg/atikur.jpg",
+        "phone": "+880 1723051728 (Personal)",
+        "email1": "atikphy@pust.ac.bd (Office)",
+        "email2": "atik0707phy@gmail.com (Personal)",
+        "name": "Dr. Md. Atikur Rahman",
+        "status": "Assistant Provost",
+        "link": "https://www.pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100088"
+    },{
+        "img": "assets/img/faimg/bikash.jpg",
+        "phone": "+8801719474053 (Personal)",
+        "email1": "bikasheco@pust.ac.bd (Office)",
+        "email2": "bikasheco_pust@ymail.com (Personal)",
+        "name": "Bikash Chandra Ghosh",
+        "status": "Assistant Provost",
+        "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100099"
+    },{
+        "img": "assets/img/faimg/bimal.jpg",
+        "phone": "+8801764006583 (Personal)",
+        "email1": "bimaldu@pust.ac.bd (Office)",
+        "email2": "bimaldu@gmail.com (Personal)",
+        "name": "Bimal Kumar Datta",
+        "status": "Assistant Provost",
+        "link": "https://www.pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100039"
+    },
+    {
+        "img": "assets/img/faimg/rashed.jpg",
+        "phone": "+8801738207670 (Personal)",
+        "email1": "rashed.mahmud@pust.ac.bd (Office)",
+        "email2": "rashed.sust07@gmail.com (Personal)",
+        "name": "Rashed Mahmud",
+        "status": "Assistant Provost",
+        "link": "https://www.pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100156"
+    },
+    {
+        "img": "assets/img/faimg/rowshan.jpg",
+        "phone": "+01714932201 (Personal)",
+        "email1": "yeazdani_english@pust.ac.bd (Office)",
+        "email2": "yeazdani.pust@gmail.com (Personal)",
+        "name": "Md. Rawshan Yeazdani",
+        "status": "Assistant Provost",
+        "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100158"
+    }
+]

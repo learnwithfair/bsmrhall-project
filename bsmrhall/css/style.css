@@ -1,0 +1,222 @@
+/* active */
+
+/* Style the active class, and buttons on mouse-over */
+ul li.active a {
+  color: #fb9857;
+  font-weight: bold;
+
+}
+
+/* end================== */
+
+
+
+
+
+.my-option-style {
+
+  width: inherit;
+  height: 38px;
+  border-radius: 5px;
+  color: rgb(126 120 120);
+  border: 1px solid rgb(189 188 188);
+  margin-bottom: 1.5rem;
+  padding: 0px 8px;
+}
+
+/* contact form */
+.card-margin {
+  margin-top: 100px;
+}
+
+/* profile */
+.profile_style {
+  height: auto
+}
+
+
+
+/* for profile edit image */
+
+
+.profile-img-div {
+  margin-bottom: 30px;
+  position: relative;
+
+
+  height: 150px;
+  width: 150px;
+
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid grey;
+  align-items: center;
+  margin: 0 auto;
+
+}
+
+#updatephoto {
+  height: 100%;
+  width: 100%;
+
+}
+
+#imgfile {
+  display: none;
+}
+
+#uploadimgBtn {
+  height: 40px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  background: rgba(0, 0, 0, 0.7);
+  color: wheat;
+  line-height: 30px;
+  font-family: sans-serif;
+  font-size: 15px;
+  cursor: pointer;
+  /* display: none; */
+}
+
+.form_style2,
+.form_style {
+  margin: 20vh 0;
+}
+
+
+/* ============== */
+
+@media screen and (min-width: 769px) {
+
+  .form_style2 {
+    width: 70% !important;
+  }
+
+  .form_style {
+    width: 40% !important;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .form_style {
+    width: 55% !important;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  .form_style2 {
+    width: 80% !important;
+  }
+
+  .form_style {
+    width: 80% !important;
+  }
+}
+
+@media screen and (max-width: 576px) {
+
+  .form_style2,
+  .form_style {
+    width: 90% !important;
+  }
+
+  .card-title {
+    font-size: 22px;
+  }
+}
+
+
+
+
+.my-style {
+  height: 200px;
+  width: 300px;
+  background-color: red;
+}
+
+#about_info>tbody>tr>td,
+#about_info>tbody>tr>th {
+  /* color:red;
+  background-color:yellow; */
+  border: none;
+  padding: 0px;
+}
+
+.table-align td {
+
+  padding: 0px;
+  vertical-align: middle;
+
+  margin: 0px;
+  border-spacing: 0px;
+  font-size: 11px;
+  text-align: center;
+
+}
+
+
+.input-icons i {
+  position: absolute;
+}
+
+.input-icons {
+  /* width: 100%; */
+  margin-bottom: 10px;
+
+}
+
+.icon {
+
+  margin-left: 20px;
+  cursor: pointer;
+
+}
+
+.user-logout {
+  justify-content: end;
+  align-items: right;
+}
+
+
+/* ############################# */
+/*list style */
+.list_style li i {
+  color: white;
+  width: 25px;
+}
+
+.f-hover-color {
+  color: white;
+}
+
+
+/* .list_style li i:hover {
+  color: #fb9857;
+}
+
+.list_style li i:hover {
+  color: #fb9857;
+} */
+
+.list_style li:hover {
+
+  transition: 500ms;
+  transform: scale(1.1, 1.1);
+}
+
+.list_style li:hover .f-hover-color {
+  color: #fb9857;
+}
+
+
+/* .list_style li:hover .list_style li a {
+  color: #fb9857;
+} */
+
+/* Profile Image Hover */

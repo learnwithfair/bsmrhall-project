@@ -1,0 +1,56 @@
+
+
+/*=========================================
+               for mobile
+=========================================== */
+@media screen and (max-width: 414px) {
+  .features_img_text_3 {
+    width: 354px;
+  }
+
+  .features_img_text_3 img {
+    width: 280px;
+  }
+
+  .col-md-9 {
+    width: 355px;
+    float: left;
+  }
+
+  .notice_header a {
+    font-size: 15px;
+  }
+
+  .notice_btns {
+    margin-left: 0px;
+    font-size: 14px;
+  }
+
+  .notice_borders_span {
+    font-size: 14px;
+  }
+
+  .hall_name {
+    font-size: 15px !important;
+    top: 10px;
+    left: 42px !important;
+  }
+}
+
+@media screen and (max-width: 393px) {
+  .features_img_text_3 {
+    width: 324px;
+  }
+
+  .features_img_text_3 img {
+    width: 250px;
+  }
+
+  .col-md-9 {
+    width: 325px;
+    float: left;
+    justify-content: center;
+  }
+
+  
+}

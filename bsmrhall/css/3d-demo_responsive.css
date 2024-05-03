@@ -1,0 +1,48 @@
+@media screen and (max-width:767px) {
+
+    .back,
+    .front>img,
+    .page1,
+    .page2,
+    .page3,
+    .page4,
+    .page5,
+    .page6 {
+        width: 99%;
+    }
+
+    .details {
+        width: 69%;
+        margin: 35px auto 23px auto !important;
+    }
+
+    .provost-contact-info {
+        width: 46%;
+        margin: 3px auto 21px auto !important;
+    }
+}
+
+@media screen and (max-width:534px) {
+    .provost-contact-info {
+        width: 50%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:434px) {
+    .provost-contact-info {
+        width: 61%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width:200px) and (max-width:375px) {
+    .details {
+        margin: 19px auto 4px auto !important;
+    }
+
+    .provost-contact-info {
+        width: 75%;
+        font-size: 13px;
+    }
+}

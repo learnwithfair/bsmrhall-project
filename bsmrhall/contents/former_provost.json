@@ -1,0 +1,37 @@
+[
+  {
+    "img": "assets/img/faimg/avatar1.jpg",
+    "phone": "",
+    "email1": "",
+    "email2": "",
+    "name": "Md. Rashed Kabir",
+    "status": "Provost",
+    "link": "#"
+  },{
+    "img": "assets/img/faimg/awal_kabir.png",
+    "phone": "+8801711210907 (Personal)",
+    "email1": "awalkabir@pust.ac.bd (Office)",
+    "email2": "awalkabir71@gmail.com (Personal)",
+    "name": "Dr. Md. Awal Kabir",
+    "status": "Provost",
+    "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100141"
+  },
+  {
+    "img": "assets/img/faimg/mushfiqur.jpg",
+    "phone": "+01718842497 (Personal)",
+    "email1": "drmushfiqur@pust.ac.bd (Office)",
+    "email2": "drmushfiqur@gmail.com (Personal)",
+    "name": "Dr. Md. Mushfiqur Rahman ",
+    "status": "Provost",
+    "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100049"
+  },
+  {
+    "img": "assets/img/faimg/saiful.jpg",
+    "phone": "+8801710459092 (Personal)",
+    "email1": "msislam0701@pust.ac.bd (Office)",
+    "email2": "msislam0701@gmail.com (Personal)",
+    "name": "Md. Saiful Islam",
+    "status": "Provost",
+    "link": "https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100062"
+  }
+]
